@@ -1,0 +1,13 @@
+# Quartus
+quartus/db/
+quartus/incremental_db/
+quartus/output_files/
+quartus/simulation/
+quartus/greybox_tmp/
+*.qws
+*.bak
+
+# Симуляция
+*.vcd
+*.vvp
+*.out
